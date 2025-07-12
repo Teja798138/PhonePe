@@ -1,0 +1,11 @@
+{
+  "mocking_stage_endpoint": {
+    "base_url": "http://userservice.nixy.stg-drove.phonepe.nb6"
+  },
+  "mock_environment": {
+    "mock_env": "mocking_stage_endpoint"
+  },
+  "crm_stage_endpoint": {
+    "crm_base_url": "http://zencast.nixy.stg-drove.phonepe.nb6/"
+  }
+}
